@@ -55,3 +55,9 @@ In other words, the company wants to understand the driving factors (or driver v
 3. The loan purpose ‘Repair’ is having higher number of unsuccessful payments on time.
 4. Get as much as clients from housing type ‘With parents’ as they are having least number of unsuccessful payments.
 
+# Conclusions
+1. Applications with income type Maternity leave and client type New are having more chances of getting the loan Approved
+2. Applications with income type Maternity leave, Unemployed and client type Repeaters are having getting the loan Cancelled
+3. Applications with income type Maternity leave, Unemployed and client type Repeaters are having getting the loan Refused
+4. Applications with income type Maternity leave and client type Repeaters, Working and Client type New are not able to utilize the Bank's offer
+
